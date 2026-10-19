@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "ivory": "#F7F5F0",
+    "white": "#FFFFFF",
+    "charcoal": "#242522",
+    "taupe": "#A69B8A",
+    "champagne": "#B79A69",
+    "beige": "#E9E2D8",
+    "olive": "#747968"
+  },
+  "fonts": {
+    "heading": "Cormorant Garamond, serif",
+    "body": "Manrope, sans-serif"
+  },
+  "typography": {
+    "heroEyebrow": {
+      "fontFamily": "Manrope, sans-serif",
+      "fontWeight": 300,
+      "textTransform": "uppercase",
+      "letterSpacing": "0.28em",
+      "desktopSize": "12px",
+      "mobileSize": "11px"
+    },
+    "heroHeadline": {
+      "fontFamily": "Cormorant Garamond, serif",
+      "fontWeight": 400,
+      "lineHeight": "1.08",
+      "letterSpacing": "-0.015em",
+      "desktopSize": "72px",
+      "tabletSize": "48px",
+      "mobileSize": "36px"
+    },
+    "sectionHeading": {
+      "fontFamily": "Cormorant Garamond, serif",
+      "fontWeight": 400,
+      "desktopSize": "48px",
+      "mobileSize": "30px"
+    }
+  },
+  "aesthetic": "Quiet Luxury Real Estate, Editorial Warm Parchment Palette, Architectural Serenity"
+}

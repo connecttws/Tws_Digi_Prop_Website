@@ -1,0 +1,49 @@
+{
+  "site": {
+    "name": "ATELIER ESTATES",
+    "tagline": "Quiet Luxury. Enduring Architecture. Considered Living.",
+    "title": "ATELIER ESTATES — Luxury Real Estate & Architectural Living",
+    "description": "Boutique luxury real estate and architectural advisory. Curated collection of exceptional contemporary residences, architectural villas, and private sanctuaries.",
+    "phone": "+1 (310) 892-4410",
+    "email": "inquiries@atelierestates.com",
+    "address": "450 North Canon Drive, Beverly Hills, CA 90210"
+  },
+  "hero": {
+    "eyebrow": "EXCEPTIONAL PROPERTIES. CONSIDERED LIVING.",
+    "headline": "A Place That Feels Like Yours.",
+    "supportingText": "Discover spaces that reflect your ambitions, your lifestyle, and the way you want to live.",
+    "primaryCta": {
+      "text": "Explore Properties",
+      "href": "/properties"
+    },
+    "secondaryCta": {
+      "text": "Discover Our Approach",
+      "href": "/about"
+    },
+    "locationBadge": "Bel Air Foothills · Residence 01",
+    "heroImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2400&q=90"
+  },
+  "discovery": {
+    "eyebrow": "A CURATED COLLECTION",
+    "headline": "Find the Place You Keep Imagining.",
+    "description": "Every property in our portfolio is selected for its architectural integrity, spatial elegance, and emotional resonance."
+  },
+  "philosophy": {
+    "eyebrow": "OUR GUIDING PRINCIPLE",
+    "headline": "Architecture That Resonates Across Generations.",
+    "pillars": [
+      {
+        "title": "Provenance & Integrity",
+        "description": "We represent residences conceived by master architects, where every line carries intentionality."
+      },
+      {
+        "title": "Enduring Materiality",
+        "description": "Honoring raw travertine, quarter-sawn oak, and weathered bronze that grow more captivating over time."
+      },
+      {
+        "title": "Discreet Stewardship",
+        "description": "Providing confidential advisory for private acquisitions, off-market sales, and bespoke representations."
+      }
+    ]
+  }
+}
